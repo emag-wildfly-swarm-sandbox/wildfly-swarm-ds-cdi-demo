@@ -4,7 +4,8 @@
 
   <groupId>wildflyswarm</groupId>
   <artifactId>wildfly-swarm-ds-cdi-demo</artifactId>
-  <version>2017.3.0-SNAPSHOT</version>
+  <!--<version>2017.3.2</version>-->
+  <version>2017.4.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
   <properties>
@@ -73,6 +74,7 @@
       <artifactId>datasources</artifactId>
     </dependency>
 
+    <!-- Workaround with using SNAPSHOT -->
     <!--<dependency>-->
       <!--<groupId>javax</groupId>-->
       <!--<artifactId>javaee-api</artifactId>-->
