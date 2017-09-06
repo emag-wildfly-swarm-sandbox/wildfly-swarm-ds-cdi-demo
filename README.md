@@ -6,7 +6,7 @@ WildFly Swarm DataSource + CDI Demo
 
 https://groups.google.com/forum/#!msg/wildfly-swarm/97bIj17zkuU/fKP24w5_DAAJ
 
-## Run Arq Test
+## Build & Run
 
 ``` sh
 ./mvnw clean package &&\
