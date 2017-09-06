@@ -1,4 +1,4 @@
-# wildfly-swarm-ds-cdi-arq-demo
+# wildfly-swarm-ds-cdi-demo
 
 WildFly Swarm DataSource + CDI Demo
 
